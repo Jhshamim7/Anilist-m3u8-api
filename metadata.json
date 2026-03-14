@@ -1,0 +1,5 @@
+{
+  "name": "Anime Stream API",
+  "description": "A RESTful API that fetches streaming data for anime using Anilist IDs by integrating with the Kaido API.",
+  "requestFramePermissions": []
+}
